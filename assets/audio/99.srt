@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:03,000
+Stai toccando due elementi contemporaneamente
+
+2
+00:00:03,800 --> 00:00:07,000
+presta attenzione agli elementi lisci, di colore nero,
+
+3
+00:00:07,000 --> 00:00:10,300
+e toccane uno alla volta per scoprire di cosa si tratta

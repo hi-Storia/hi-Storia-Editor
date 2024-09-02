@@ -1,0 +1,23 @@
+board_manager:
+  additional_urls: []
+
+directories:
+  data: "./editor/arduino/data"
+  downloads: "./editor/arduino/staging"
+  user: "./editor/arduino"
+  built-in-libraries: "./editor/arduino/libraries"
+  sketchbook: "./editor/arduino/sketchbook"
+  hardware: "./editor/arduino/hardware"
+  tools: "./editor/arduino/tools"
+  tools_download: "./editor/arduino/tools"
+  builtin: false
+
+logging:
+  file: ""
+  format: text
+  level: info
+
+telemetry:
+  addr: :9090
+  enabled: false
+  prompt: true

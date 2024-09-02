@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:02,600
+Ciao, sono un'audioguida tattile Hi-Storia!
+
+2
+00:00:03,600 --> 00:00:06,500
+Rappresento un monumento di questo territorio
+
+3
+00:00:06,500 --> 00:00:09,000
+ma per scoprire chi sono e qual è la mia storia
+
+4
+00:00:09,000 --> 00:00:11,400
+avvicinati e tocca la superficie
+
+5
+00:00:12,200 --> 00:00:16,000
+Le parti lisce, di colore nero, raccontano qualcosa di me.
+
+6
+00:00:17,000 --> 00:00:20,000
+Sono stata realizzata tramite una stampante 3D
+
+7
+00:00:20,300 --> 00:00:22,600
+e il lavoro di studenti e studentesse
+
+8
+00:00:23,500 --> 00:00:27,000
+Scopri di più consultando il monitor o le etichette vicino a me
